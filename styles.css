@@ -1,0 +1,53 @@
+#frame{
+    display: inline-block;
+    padding: 3%;
+    background-color: rgb(138, 138, 241);
+    align-items: center;
+    width: 50%;
+    height: 50vh;
+}
+
+.buttons{
+    height: 100%;
+    gap: 5%;
+    font-size: xx-large;
+}
+
+.operators{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 80%;
+}
+
+.numbers{
+    width: 75%;
+    height: 80%;
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+}
+
+
+.operator {
+    background-color: lightblue;
+    width: 75%;
+    height: 15%;
+    margin-bottom: 5%;
+}
+
+
+.number{
+    width:25%;
+    height: 20%;
+    margin-bottom: 2%;
+}
+
+#display{
+    background-color: black;
+    margin-bottom: 10px;
+    height: 20%;
+    color: yellow;
+}
