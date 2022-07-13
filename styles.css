@@ -3,7 +3,7 @@
     padding: 3%;
     background-color: rgb(138, 138, 241);
     align-items: center;
-    width: 50%;
+    width: 400px;
     height: 50vh;
 }
 
@@ -52,8 +52,9 @@
     color: yellow;
     display: flex;
     align-items: center;
+    justify-content: right;
     font-size: xx-large;
-    padding: 2%;
+    padding-right: 5%;
     margin-bottom: 5%;
 }
 
